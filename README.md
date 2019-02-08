@@ -1,6 +1,6 @@
 # Duncan's dotfiles 
 
-* These are my dotfiles. For me. And you.
+* These are my dotfiles. For me. And you!
 
 ## Setup
 #### installing & using
